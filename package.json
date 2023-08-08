@@ -1,13 +1,18 @@
 {
   "name": "yracnet.github.io",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "homepage": "https://yracnet.github.io/",
   "repository": "https://github.com/yracnet/yracnet.github.io.git",
   "author": "Willyams Yujra <yracnet@gmail.com>",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "build": "node src/create.js",
+    "deploy": "gh-pages -d public"
+  },
   "dependencies": {
-    "gh-pages": "^5.0.0",
+    "gh-pages": "^3.1.0",
     "node-fetch": "^3.3.2"
   }
 }

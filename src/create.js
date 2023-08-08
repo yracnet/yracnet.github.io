@@ -1,7 +1,6 @@
 import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
-import ghpages from "gh-pages";
 
 const fileData = path.resolve("src/data.json");
 const filePage = path.resolve("public/index.md");
@@ -46,6 +45,8 @@ ${it.description || ""}
 `;
     })
     .join("\n\n");
+  console.log("Read: ", fileData);
+  console.log("Write: ", filePage);
   fs.writeFileSync(
     filePage,
     `
@@ -54,16 +55,6 @@ ${it.description || ""}
 ${html}  
   
   `
-  );
-  ghpages.publish(
-    "public",
-    {
-      message: "Auto-generated commit",
-      remote: "upstream",
-    },
-    () => {
-      console.log("Finish");
-    }
   );
 };
 run();
