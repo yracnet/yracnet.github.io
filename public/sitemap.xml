@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://yracnet.github.io/</loc>
+  <lastmod>2023-08-08T21:53:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/bo-ng-xsl/</loc>
+  <lastmod>2017-04-07T12:10:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/covid19/</loc>
+  <lastmod>2020-04-01T23:51:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/cv/</loc>
+  <lastmod>2022-07-22T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/fragment-maven-plugin/</loc>
+  <lastmod>2017-09-28T11:36:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/handler.js/</loc>
+  <lastmod>2019-08-23T13:58:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/preview/</loc>
+  <lastmod>2023-06-21T04:29:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/react-app/</loc>
+  <lastmod>2021-04-08T11:59:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/react-device-responsive/</loc>
+  <lastmod>2021-04-24T22:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/react-grid/</loc>
+  <lastmod>2021-04-24T22:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/react-hsc/</loc>
+  <lastmod>2021-03-06T20:40:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/react-hsk-router/</loc>
+  <lastmod>2021-06-25T22:40:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/react-rest-client/</loc>
+  <lastmod>2022-12-10T13:37:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/vite-plugin-api/</loc>
+  <lastmod>2023-08-08T00:05:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/vite-plugin-json-server/</loc>
+  <lastmod>2023-08-08T00:10:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/vite-plugin-remix/</loc>
+  <lastmod>2023-08-07T23:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/xmlns/</loc>
+  <lastmod>2020-07-14T15:21:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/zenkata-build/</loc>
+  <lastmod>2020-07-15T00:15:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/covid19/build/</loc>
+  <lastmod>2020-04-01T23:51:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/handler.js/src/doc/crumb.html</loc>
+  <lastmod>2019-08-23T13:58:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/handler.js/src/example/crumb.html</loc>
+  <lastmod>2019-08-23T13:58:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/handler.js/src/doc/route.html</loc>
+  <lastmod>2019-08-23T13:58:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/handler.js/src/example/route.html</loc>
+  <lastmod>2019-08-23T13:58:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/handler.js/src/example/window.html</loc>
+  <lastmod>2019-08-23T13:58:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yracnet.github.io/vite-plugin-api/tutorial</loc>
+  <lastmod>2023-08-08T00:05:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
