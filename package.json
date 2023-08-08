@@ -1,0 +1,13 @@
+{
+  "name": "yracnet.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yracnet/yracnet.github.io.git",
+  "author": "Willyams Yujra <yracnet@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
