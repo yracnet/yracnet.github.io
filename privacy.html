@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidad — IA-Content</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { max-width: 820px; margin: 0 auto; padding: 32px 20px 64px;
+         font: 16px/1.65 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  h1 { font-size: 1.9rem; margin-bottom: .2em; }
+  h2 { font-size: 1.2rem; margin-top: 2em; }
+  .meta { color: #666; font-size: .9rem; }
+  table { border-collapse: collapse; width: 100%; font-size: .95rem; }
+  th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; vertical-align: top; }
+  code { background: rgba(127,127,127,.15); padding: 1px 4px; border-radius: 3px; }
+  .en { margin-top: 3em; border-top: 1px solid #ccc; padding-top: 1.5em; }
+</style>
+</head>
+<body>
+<h1>Política de Privacidad — IA-Content</h1>
+<p class="meta">Última actualización: 22 de octubre de 2026</p>
+
+<p>Esta Política de Privacidad describe cómo <strong>IA-Content</strong> («la Aplicación», «nosotros») trata la información cuando utilizas la aplicación web publicada en <a href="https://yracnet.github.io/">https://yracnet.github.io/</a> y su integración con la API de TikTok for Developers.</p>
+
+<h2>1. Responsable del tratamiento</h2>
+<p>Responsable: el titular del proyecto IA-Content.<br>
+Contacto para privacidad y ejercicio de derechos: <a href="mailto:yracnet@gmail.com">yracnet@gmail.com</a>.</p>
+
+<h2>2. Qué datos tratamos</h2>
+<table>
+  <thead><tr><th>Dato</th><th>Origen</th><th>Finalidad</th></tr></thead>
+  <tbody>
+    <tr><td>Identificador de usuario de TikTok, nombre visible y avatar</td><td>TikTok, mediante autorización OAuth</td><td>Mostrar tu cuenta dentro de la Aplicación y asociar la sesión</td></tr>
+    <tr><td>Token de acceso y de refresco de TikTok</td><td>TikTok, mediante autorización OAuth</td><td>Ejecutar las acciones que autorices (subir/publicar vídeos)</td></tr>
+    <tr><td>Vídeos y metadatos que envías (título, descripción, privacidad)</td><td>Tu dispositivo</td><td>Generar y publicar el contenido en tu cuenta</td></tr>
+    <tr><td>Datos técnicos básicos (registros de errores, fecha de la operación)</td><td>Tu navegador y servidor</td><td>Seguridad, diagnóstico y soporte</td></tr>
+  </tbody>
+</table>
+
+<h2>3. Permisos de TikTok (scopes)</h2>
+<p>La Aplicación solicita únicamente los permisos necesarios para su funcionamiento:</p>
+<ul>
+  <li><code>user.info.basic</code>: leer tu identificador, nombre visible y avatar.</li>
+  <li><code>video.upload</code>: subir vídeos a tu cuenta como borrador o envío directo.</li>
+  <li><code>video.publish</code>: publicar vídeos en tu cuenta cuando tú lo solicitas.</li>
+</ul>
+<p>No solicitamos permisos de mensajería, contactos, ubicación ni acceso a contenidos de otras personas.</p>
+
+<h2>4. Finalidad y base legal</h2>
+<p>Tratamos los datos exclusivamente para prestar el servicio que solicitas: autenticarte con TikTok, generar el contenido y publicarlo en tu cuenta. La base legal es tu consentimiento, otorgado al autorizar la Aplicación mediante OAuth, y la ejecución del servicio solicitado. Puedes retirar el consentimiento en cualquier momento (ver sección 7).</p>
+
+<h2>5. Conservación</h2>
+<p>Conservamos los tokens de acceso mientras mantengas la autorización activa. Los registros técnicos se conservan un máximo de 30 días. Los vídeos se procesan de forma transitoria y se eliminan tras la subida o en un plazo máximo de 24 horas.</p>
+
+<h2>6. Destinatarios y transferencias</h2>
+<p>Los datos se envían a TikTok únicamente para ejecutar las acciones que autorizas, conforme a las políticas de TikTok:</p>
+<ul>
+  <li><a href="https://www.tiktok.com/legal/page/global/tik-tok-developer-terms-of-service/en" rel="noopener">TikTok Developer Terms of Service</a></li>
+  <li><a href="https://www.tiktok.com/legal/page/global/partner-privacy-policy/en" rel="noopener">TikTok Partner Privacy Policy</a></li>
+</ul>
+<p>No vendemos datos personales, no los cedemos con fines publicitarios y no los compartimos con terceros ajenos a la prestación del servicio.</p>
+
+<h2>7. Tus derechos</h2>
+<p>Puedes solicitar acceso, rectificación, supresión, oposición, limitación y portabilidad de tus datos escribiendo a <a href="mailto:yracnet@gmail.com">yracnet@gmail.com</a>. También puedes revocar el acceso de la Aplicación desde <em>TikTok &gt; Configuración &gt; Seguridad &gt; Aplicaciones y servicios conectados</em>. Al revocar el acceso, eliminamos los tokens asociados.</p>
+
+<h2>8. Seguridad</h2>
+<p>Los tokens se almacenan cifrados y se transmiten por HTTPS. El acceso a los secretos está restringido al operador del servicio.</p>
+
+<h2>9. Menores</h2>
+<p>La Aplicación no está dirigida a menores de 18 años y no recopila conscientemente datos de menores.</p>
+
+<h2>10. Cambios</h2>
+<p>Publicaremos cualquier cambio en esta página e indicaremos la fecha de actualización.</p>
+
+<div class="en">
+<h2>English summary</h2>
+<p>IA-Content is a web application that uses the official TikTok API to authenticate you (OAuth) and upload or publish videos you create. We request only <code>user.info.basic</code>, <code>video.upload</code> and <code>video.publish</code>. We do not sell personal data. Tokens are stored securely and deleted when you revoke access. Contact: <a href="mailto:yracnet@gmail.com">yracnet@gmail.com</a>. This Spanish version prevails.</p>
+</div>
+</body>
+</html>
